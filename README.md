@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://imgur.com/a/XlrC9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='flextip2_v2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -46,9 +47,9 @@ Describe any challenges encountered while building the app.
 3. Most discrepancies between what is provided (in YouTube and the Pre-Work page) are differences between Swift 3 vs. 2.
 
 4. 12+ hours on everything related to locale-specific details. 
-- Managed to get the UIPicker to display Countries (but not pass locale).
-- Selected value for UIPicker does not load in Settings UIPicker, but value is referenced correctly.
-- For this submit, created a shorter list of Countries by locale to demonstrate dynamic currency adjustments.
+    Managed to get the UIPicker to display Countries (but not pass locale).
+    Selected value for UIPicker does not load in Settings UIPicker, but value is referenced correctly.
+    For this submit, created a shorter list of Countries by locale to demonstrate dynamic currency adjustments.
 
 5. 2+ hours on resolving quirks with becomeFirstResponder() and entered values.
 
